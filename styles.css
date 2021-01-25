@@ -1,0 +1,82 @@
+h1 {
+    font-size: 150px;
+    font-family: 'Annie Use Your Telescope';
+}
+
+.sectionone {
+    display: flex;
+    border: 5px red solid;
+    margin: 10px;
+    padding: 0px;
+    background-color: ivory;
+}
+
+.bernie {
+    width: 585px;
+    height: 420px;
+    border-radius: 50%;
+}
+
+body {
+    background-color: #bbff99;
+}
+
+p {
+    display: flex;
+    justify-content: center;
+    border: 5px black dotted;
+    background-color: lightblue;
+    font-family: 'Aladin';
+    font-size: 27px;
+}
+
+.menu3 {
+    display: flex;
+    justify-content: center;
+    background-color: lightblue;
+    margin: 10px;
+    padding: 3px;
+    border: 5px black dotted;
+}
+
+.item3 {
+    display: flex;
+    margin: 5px;
+    padding: 3px;
+    background-color: ivory;
+    border: 2px black dashed;
+}
+
+.Importantinterestingfacts {
+
+    display: flex;
+    justify-content: center;
+    border: 5px red solid;
+    background-color: ivory;
+    font-family: 'Annie Use Your Telescope';
+    font-size: 18px;
+}
+
+.photos {
+    display: flex;
+    justify-content: center;
+    border: 5px red solid;
+    background-color: ivory;
+    font-family: 'Annie Use Your Telescope';
+    font-size: 18px;
+}
+
+.Sectionthree {
+
+    display: flex;
+    justify-content: center;
+    border: 5px red solid;
+    background-color: ivory;
+    font-family: 'Annie Use Your Telescope';
+    font-size: 18px;
+}
+
+.aocbernie {
+    width: 672px;
+    height: 300px;
+}
